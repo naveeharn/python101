@@ -13,3 +13,4 @@ for i in student:
 if 112 in student:
     print("student have 112")
    
+# tuples
