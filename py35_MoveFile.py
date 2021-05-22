@@ -4,7 +4,6 @@ source = "/Users/naveeharntehmarn/Desktop/Sophomore/2_semester_1/everythingPytho
 destination = "/Users/naveeharntehmarn/Desktop/Sophomore/2_semester_1/everythingPython/python101/py35_floder/after_move/py35_text.txt"
 
 try:
-    
     if os.path.exists(destination):
         print("There is already a file there")
     else:
