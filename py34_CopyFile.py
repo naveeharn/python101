@@ -7,5 +7,5 @@ import shutil
 shutil.copyfile('py34_text.txt','py34_copyfileText')
 shutil.copyfile('py34_text.txt','/Users/naveeharntehmarn/Desktop/Sophomore/2_semester_1/everythingPython/python101/py34_copyfileText')
 
-# shutil.copy('py34_text.txt','py34_copyfileText')
-# shutil.copy2(('py34_text.txt','py34_copyfileText'))
+# shutil.copy('py34_text.txt','py34_copyfileText') //
+# shutil.copy2(('py34_text.txt','py34_copyfileText')) //
