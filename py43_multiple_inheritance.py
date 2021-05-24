@@ -26,6 +26,7 @@ fish = Fish()
 rabbit.flee()
 hawk.hunt()
 print()
+
 fish.flee()
 fish.hunt()
 
